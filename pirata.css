@@ -34,5 +34,5 @@ body {
 
         @font-face{
             font-family: caligrafia;
-            src: url(fonts/Handmade.otf)
+            src: url(/fonts/Handmade.otf)
         }
