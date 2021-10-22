@@ -1,0 +1,38 @@
+body {
+        background-image: url('/img/skull-and-crossbones-992611_1280.png');
+        background-size: 40%;
+        font-family: caligrafia;
+        font-size:smaller;
+    }
+        
+            
+
+        #container{
+        background-color: rgb(206, 38, 38);
+        width: 80%;
+        margin: 30px auto;
+        border-radius: 80px;
+        padding: 15px;
+        box-shadow: 10px 10px 10px;
+        color: #101110;
+    }
+
+        #container p,h1 {
+            margin: 20px;
+            text-align: center;
+            margin-top: 1px;
+
+        }
+        
+        #container img{
+            width: 20vh;
+            display:block;
+            margin:auto;
+            
+        }
+
+
+        @font-face{
+            font-family: caligrafia;
+            src: url(fonts/Handmade.otf)
+        }
